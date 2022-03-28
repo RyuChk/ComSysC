@@ -14,5 +14,5 @@ Work Directory table.
 
 |Assignemnt Name        |C Source Code File Path        |Documentation File Path      |
 |-----------------------|-------------------------------|-----------------------------|
-|Assignment 7 : Process |`"./Process/Process.c"`        |`"./Process/Process.txt"`    |
-|Assignment 8 : Threads |`"./Threads/Thread.c"`         |`"./Threads/Thread.txt"`     |
+|Assignment 7 : Process |`"./Process/Process.c"`        |`"./Process/Process.md"`    |
+|Assignment 8 : Threads |`"./Threads/Thread.c"`         |`"./Threads/Thread.md"`     |
