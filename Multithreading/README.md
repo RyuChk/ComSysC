@@ -36,6 +36,12 @@ Example :
 
     linux~: ./RaceCondition
     OK! cnt is [2000000]
+
+Output:
+
+	OK! cnt is [2000000]
+
+![Multi-ThreadingOutputPicture](https://github.com/RyuChk/ComSysC/blob/main/Multithreading/img/RaceConditionOuput.jpg)
     
 ### 2. Thread <a name="t-usage"></a>
 #### Argument
@@ -65,6 +71,8 @@ Output :
     Iteration 10 is processed by thread 2
     Result of sum using Threading is : <55>
     ---------------------------End-Process---------------------------
+
+![ThreadOutputPicture](https://github.com/RyuChk/ComSysC/blob/main/Multithreading/img/ThreadOutput.jpg)
 
 ## <a name="Implementation"></a> Implementation
 **Link :**
