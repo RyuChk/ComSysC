@@ -6,7 +6,7 @@ This file will explain how the I implement Process Sync for Assignment 9: Proces
 **Table**
 - [Instruction](#Instruction)
 - [Dining Philosophers Problem Explaination](#diningProblem)
-- [Implimentation](#Implimentation)
+- [Implementation](#Implementation)
 
 > **Note:** The code is a reference from the website [geeksforgeeks](https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/#:~:text=The%20Dining%20Philosopher%20Problem%20%E2%80%93%20The,two%20chopsticks%20adjacent%20to%20him.).
 
@@ -34,7 +34,7 @@ Represent in 5 philosophers who sit on a dining table with 5 spoon for each pers
 
 The philosopher is demanded to think and eat he/she is hungry. There is a condition, a philosopher can only eat if he/she can hold a fork in both hands. This means if the fork is not available they cannot eat and go back to thinking.
 
-## <a name="Implimentation"></a>Implimentation
+## <a name="Implementation"></a>Implementation
 
 ### Create Thread
 

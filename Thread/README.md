@@ -1,5 +1,5 @@
 # Thread Documentation
-This file will explain how the I impliement Thread for assignment 8 : Threads.
+This file will explain how the I implement Thread for assignment 8 : Threads.
 
 > **Note:** There also .pdf file in directory `*./Document.pdf*`
 
@@ -16,7 +16,7 @@ How the calculating threads work :
 -   m can be any positive integer, and m >= 2.
 
 ## Usage
-#### Argrument
+#### Argument
 
 	    ./ThreadOutput.out <Sum of N> <Number of Thread>
 
