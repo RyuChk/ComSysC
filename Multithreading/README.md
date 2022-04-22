@@ -1,4 +1,4 @@
-# Thread-OpenMP Document
+# Multi-threading and OpenMP Document
 
 This file will explain how the I implement program calculate sum of N using openMP which are rewrite from assignment 8 : Threads.
 
